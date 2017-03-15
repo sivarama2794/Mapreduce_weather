@@ -11,7 +11,7 @@ https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-
 
 Once you have installed the hadoop , download the project using git commands and install it.
 
-$ git clone https://github.com/vasanth-mahendran/weather-data-hadoop.git
+$ git clone https://github.com/sivarama2794/Mapreduce_weather.git
 $ cd weather-data-hadoop
 $ mvn install
 
